@@ -1,0 +1,7 @@
+Python Environtment :
+
+Pandas
+Numpy
+Flask
+Gradio
+Matplotlib
