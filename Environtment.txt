@@ -5,3 +5,7 @@ Numpy
 Flask
 Gradio
 Matplotlib
+
+
+Phase 4 :
+Belajar Git dulu
